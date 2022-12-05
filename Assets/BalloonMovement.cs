@@ -40,13 +40,13 @@ void FixedUpdate(){
 
 if(isFacingRight){
   transform.position = new Vector2(transform.position.x + .1f, transform.position.y);
-  if(transform.position.x >= 20.49){
+  if(transform.position.x >= 16.3){
     Flip();
   }
 }
 if(!isFacingRight){
   transform.position = new Vector2(transform.position.x + -.1f, transform.position.y);
-  if(transform.position.x <= -20.49){
+  if(transform.position.x <= -16.3){
     Flip();
 }
 if(transform.localScale.x > maxSized){
