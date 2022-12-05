@@ -485,7 +485,7 @@ MonoBehaviour:
   level: 0
   scoreThisLevel: 0
   scoreTxt: {fileID: 0}
-  levelTxt: {fileID: 0}
+  levelTxt: {fileID: 1919748936}
 --- !u!114 &193121723
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -499,7 +499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 750627392}
-  pinPrefab: {fileID: 2795306389614229512, guid: 9e782bf1f3ed142998187d4bde745717, type: 3}
+  pinPrefab: {fileID: 1872002525330367071, guid: 7f5f81501df8b4b3daaa3f42802bd7b7, type: 3}
 --- !u!114 &193121724
 MonoBehaviour:
   m_ObjectHideFlags: 0
